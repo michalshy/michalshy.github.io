@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Mini RPC",
+    "description": "A lightweight RPC framework written in modern C++23. Register a function on the server, call it from the client — that's it.",
+    "screenshot": "assets/screenshots/rpc.png",
+    "demo_url": "",
+    "github_url": "https://github.com/michalshy/mini-rpc",
+    "tags": ["c++", "cmake", "network", "unix", "winsocket"],
+    "featured": true
+  },
+  {
+    "title": "CHIP-8 Emulator",
+    "description": "A CHIP-8 emulator capable of running most original CHIP-8 games. Implements the full instruction set with accurate timing and display output via Raylib.",
+    "screenshot": "assets/screenshots/chip8.png",
+    "demo_url": "",
+    "github_url": "https://github.com/michalshy/chip8",
+    "tags": ["c++", "c", "raylib", "emulation"],
+    "featured": false
+  },
+  {
+    "title": "Planets",
+    "description": "Simulation of the solar system.",
+    "screenshot": "assets/screenshots/planets.png",
+    "demo_url": "",
+    "github_url": "https://github.com/michalshy/planets",
+    "tags": ["c++", "opengl", "cmake", "imgui"],
+    "featured": false
+  },
+  {
+    "title": "AGV Simulator",
+    "description": "An Automated Guided Vehicle simulator with a neural network for movement prediction. Communicates via OPC UA protocol, simulating industrial automation scenarios.",
+    "screenshot": "assets/screenshots/agv.png",
+    "demo_url": "",
+    "github_url": "https://github.com/michalshy/agvsim",
+    "tags": ["python", "tensorflow", "pygame", "opcua"],
+    "featured": false
+  }
+]
