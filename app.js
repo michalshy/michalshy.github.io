@@ -124,7 +124,7 @@ function Hero() {
     <section class="hero" id="hero">
       <div class="container">
         <div class="hero-inner">
-          <div class="hero-prompt">~/michal brodziak</div>
+          <div class="hero-prompt">~/michal</div>
           <p class="hero-tagline">
             Software engineer. I build tools, emulators, usually things that run close to the metal or are connected to game dev. 
           </p>
